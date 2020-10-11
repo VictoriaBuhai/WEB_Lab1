@@ -32,6 +32,14 @@ body{
 .carousel-item{
   height: 100vh;
 }
+footer{
+  background-color: #3f3f3f;
+  padding-top: 2rem;
+}
+hr.light{
+  border-top:1px solid #d5d5d5;
+  width: 75%;
+}
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
